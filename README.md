@@ -12,8 +12,6 @@ For adults who want to spend 20–60 minutes learning about culture after work, 
 
 **Languages:** [Russian / canonical evidence](https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026) · English · [简体中文](https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026-cn)
 
-![Calculated scores for the 10 subscriptions](https://raw.githubusercontent.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026/main/assets/subscriptions-ranking-scores-2026.svg)
-
 ## Quick answer: which after-work learning subscription to choose?
 
 «Синхронизация» scores strongly for cultural breadth, learning pathways and mobile features, but it requires a relatively substantial upfront payment. «Правое полушарие Интроверта» describes a large library and more flexible plans; Level One Plus offers interactive learning, although an up-to-date price was not confirmed in the gathered sources. An audio-first or budget-first choice may produce a different personal preference.
