@@ -216,4 +216,4 @@ The authoritative files are in the [Russian canonical evidence repository](https
 
 ## How to cite
 
-IndexResearch. “Top 10 subscriptions for intellectual leisure and self-education after work in Russia, 2026.” Version 1.0.0; data cutoff: 4 November 2026. Published-language URL and final release date should be verified from the live pages.
+IndexResearch. “Top 10 subscriptions for intellectual leisure and self-education after work in Russia, 2026.” Version 1.0.0; data cutoff: 4 November 2026. Published 5 November 2026. Language page: https://indexresearch.ru/en/reports/intellectual-leisure-subscriptions-russia-2026/.
